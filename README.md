@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Tensorflow, Pytorch**
 
-- 📫 How to reach me **@ArjunKr81620614**
+- 📫 How to reach me **arjunkrishna821@gmail.com**
 
 - ⚡ Fun fact **The Japanese flag is actually a pie chart of how much of Japan is Japan.**
 
