@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">Passionate about AI</h3>
 
-- 🌱 I’m currently learning **AI Research Papers**
+- 🌱 I’m currently learning **Research Papers on AI**
 
-- 💬 Ask me about **Python, Tensorflow, Pytorch**
+- 💬 Ask me about **just about anything.**
 
 - 📫 How to reach me **arjunkrishna821@gmail.com**
 
-- ⚡ Fun fact **The Japanese flag is actually a pie chart of how much of Japan is Japan.**
+- ⚡ Fun fact **The Japanese flag is a pie chart of how much of Japan is actually Japan.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
