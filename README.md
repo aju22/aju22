@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: ***Research Papers on AI***
 
-- 💬 Ask me about: **Anything except, college life**
+- 💬 Ask me about: ***Anything except, life in pandemic***
 
 - 📫 How to reach me: ***arjunkrishna821@gmail.com***
 
