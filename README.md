@@ -5,8 +5,6 @@
 
 - 💬 Ask me about: ***Anything except, life in pandemic***
 
-- 📫 How to reach me: ***arjunkrishna821@gmail.com***
-
 - ⚡ Fun fact: ***The Japanese flag is a pie chart of how much of Japan is actually Japan.***
 
 <h3 align="left">Connect with me:</h3>
