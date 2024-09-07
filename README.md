@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">Passionate about AI</h3>
-
-- 🌱 I’m currently: ***Researching in AI algorithms for Medical Domain***
+<h4 align="center">🌱 I’m currently: Researching in AI algorithms for Medical Domain</h4
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
