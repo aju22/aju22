@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun</h1>
 <h3 align="center">Passionate about AI</h3>
 
-- 🌱 I’m currently learning: ***Research Papers on AI***
-
-- 💬 Ask me about: ***Anything except, life in pandemic***
-
-- ⚡ Fun fact: ***The Japanese flag is a pie chart of how much of Japan is actually Japan.***
+- 🌱 I’m currently: ***Researching in AI algorithms for Medical Domain***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
